@@ -1,3 +1,4 @@
+-- Funasense Rewritten | Funsasense beta Recreation
 
 shared.GameSense = {}; shared.GameSense.Settings = {}
 
