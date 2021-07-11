@@ -12,7 +12,7 @@ shared["GameSense"]["Settings"]["FreeForAll"]								= true
 shared["GameSense"]["Settings"]["PerformanceMode"]							= false
 shared["GameSense"]["Settings"]["ShowCharacterDistance"]					= true
 shared["GameSense"]["Settings"]["AimPriority"]								= 2
-shared["GameSense"]["Settings"]["TargetPart"]								= "Torso"
+shared["GameSense"]["Settings"]["TargetPart"]								= "Head"
 
 shared["GameSense"]["Settings"]["FieldOfView"]								= 2.5
 shared["GameSense"]["Settings"]["Sensitivity"]								= 0.2
